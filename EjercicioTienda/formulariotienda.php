@@ -12,7 +12,7 @@
  <h1>Seleccione los artículos que desea comprar</ h1>
  <form action="p41tienda.php" method="get">
     <input type="checkbox" name="articulo['Bolígrafo rojo']" value=".35" id="boliRojo"/ >
-    <label for="boliRojo" >Bolígrafo Rojo (35 céntimos) </label><br>
+    <label for="BoliRojo" >Bolígrafo Rojo (35 céntimos) </label><br>
     <input type="checkbox" name="articulo['Bolígrafo azul']" value=".35" id="boliAzul"/ >
     <label for="boliAzul">Bolígrafo Azul (35 céntimos)</label><br/>
     <input type="checkbox" name="articulo['Lapicero grueso']" value=".27" id="lapizGrueso"/ >
