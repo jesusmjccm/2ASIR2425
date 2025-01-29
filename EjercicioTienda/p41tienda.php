@@ -25,7 +25,7 @@
 function muestraysuma($a)
 {
   $sumatotal=0;
-  //modificación 2801 GitHUb
+  //modificación 2901 GitHUb
   echo "<table border='1' width='300px'><td>ARTICULO</td><td>PRECIO</td><tr>";
   foreach ($a as $nombre => $precio)
    {
